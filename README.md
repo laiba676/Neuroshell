@@ -3,3 +3,5 @@ NeuroShell is a lightweight, offline-capable AI voice assistant that uses the Vo
 Run Streamlit app
 bash
 streamlit run app.py
+
+![bugsbee](https://github.com/user-attachments/assets/f3c6be1d-b76a-47a4-9dab-7a45d75e03f5)
